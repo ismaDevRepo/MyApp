@@ -1,17 +1,15 @@
-# MyApp Back-end
+# Qimapp BACK
 
-### A fullstack SpringBoot & Angular project
+# Get Started 
 
-#### Get Started
+#### Install dependencies:
+ 
+````
+mvn install  
+````
 
-###### Install dependencies :
-
-```bash
-mvn clean install
-```
-
-###### Start SpringBoot web server:
-
-```bash
+#### Start spring boot web server: 
+  
+````
 spring-boot:run
-```
+````
