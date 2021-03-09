@@ -2,15 +2,15 @@
 
 ### A fullstack SpringBoot & Angular project
 
-####Get Started
+#### Get Started
 
-#######Install dependencies :
+####### Install dependencies :
 
 ```bash
 mvn clean install
 ```
 
-#######Start SpringBoot web server:
+####### Start SpringBoot web server:
 
 ```bash
 spring-boot:run
