@@ -1,3 +1,3 @@
 # MyApp
 
-*A fullstack SpringBoot & Angular project
+### A fullstack SpringBoot & Angular project
